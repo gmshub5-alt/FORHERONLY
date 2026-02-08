@@ -124,8 +124,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "YES I KNEW IT IM SO LUCKYYY AYYAYEYEYEY TYSMMSMSSSS",     // Celebration title
+    message: "ILYSM TOOOO FAHUIWHFRIYEGHWUGHIFEWUAHGIAFEW",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
